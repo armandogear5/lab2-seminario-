@@ -1,0 +1,12 @@
+TypeScript es una extensión de JavaScript que añade tipado estático, lo que significa 
+que puedes definir el tipo de datos de variables y funciones, ayudando a evitar 
+errores comunes y mejorando la autocompletación en los editores. A diferencia de JavaScript, que 
+es dinámico y flexible, TypeScript permite detectar errores durante la etapa de desarrollo, 
+antes de que el código se ejecute, lo que facilita la depuración en proyectos grandes. También
+soporta las últimas características de JavaScript, incluso antes de que 
+sean ampliamente adoptadas, gracias a la compilación a JavaScript
+estándar. Además, TypeScript introduce conceptos avanzados como interfaces, clases
+y herencia, haciéndolo más parecido a lenguajes orientados a objetos
+como Java o C#. En resumen, TypeScript es ideal para proyectos de mayor escala y equipos
+colaborativos, mientras que JavaScript sigue siendo más adecuado para proyectos pequeños 
+o rápidos donde la flexibilidad es clave.

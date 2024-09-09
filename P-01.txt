@@ -1,0 +1,15 @@
+Los template strings o plantillas literales son una característica introducida en 
+ES6 (ECMAScript 2015) en JavaScript. Se utilizan para mejorar 
+la forma de trabajar con cadenas de texto, permitiendo la interpolación de variables y 
+expresiones directamente dentro de las cadenas sin necesidad de concatenación. A continuación, algunas
+ características importantes:
+
+Características de los template strings:
+Uso de comillas invertidas (): A diferencia de las cadenas de texto tradicionales que usan comillas 
+simples (`' '`) o comillas dobles (`" "`), los **template strings**
+ utilizan las comillas invertidas o "backticks" ( ` ``).
+
+Interpolación de expresiones:
+Una de las principales ventajas de los template strings es la capacidad de insertar variables 
+o expresiones directamente dentro de la cadena, usando la sintaxis ${}. El código dentro de las
+ llaves se evalúa y el resultado se inserta en la cadena:
